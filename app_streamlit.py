@@ -1,7 +1,4 @@
 
-pip install transformers -q
-pip install langchain==0.0.276 -q
-pip install streamlit -q
 
 %pip install ../../../amazon-bedrock-workshop/dependencies/botocore-1.29.162-py3-none-any.whl ../../../amazon-bedrock-workshop/dependencies/boto3-1.26.162-py3-none-any.whl ../../../amazon-bedrock-workshop/dependencies/awscli-1.27.162-py3-none-any.whl --force-reinstall
 
